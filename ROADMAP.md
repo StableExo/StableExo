@@ -1,4 +1,4 @@
-# AI-Crypto-Ecosystem Project Roadmap
+# StableExo Project Roadmap
 
 ## Vision
 To create a fully autonomous, self-funding artificial intelligence system that sustains its own development and operation through decentralized finance (DeFi) strategies.

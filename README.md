@@ -1,4 +1,4 @@
-# AI-Crypto-Ecosystem
+# StableExo
 
 A self-funding, autonomous AI development ecosystem. This project combines advanced AI modules (NLP, Computer Vision, Reinforcement Learning) with decentralized finance (DeFi) strategies to generate income that funds its own research and development.
 
