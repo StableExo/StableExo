@@ -1,0 +1,18 @@
+# Core AI & Data Science
+torch==2.8.0
+transformers==4.56.1
+tensorflow-cpu==2.20.0
+opencv-python==4.12.0.88
+stable-baselines3==2.7.0
+gym==0.26.2
+pandas==2.3.2
+numpy==2.2.6
+scikit-learn==1.7.2
+
+# Web3 & Blockchain Interaction
+web3==7.13.0
+py-solc-x==2.0.4
+
+# Utilities
+python-dotenv==1.1.1
+requests==2.32.5
